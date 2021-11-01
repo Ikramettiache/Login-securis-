@@ -25,6 +25,6 @@
 </html>
 <?php 
 }else {
-   header("Location: private\login.php");
+   header("Location: login.php");
 }
  ?>
